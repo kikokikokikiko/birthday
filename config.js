@@ -56,10 +56,8 @@ var config = {
 	"2020年，自己的生日自己布置": "./imgs/2020-2.jpeg",
 	"2021年，和你的新同学们一起庆祝": "./imgs/2021-2.jpeg",
 	"这抱着花的美女好好看！": "./imgs/2021-1.jpeg",
-	"真美！": "./imgs/2021-1.jpeg",
 	"先道个歉": "./imgs/apologize.jpeg",
         "但希望你喜欢，永远爱你！": "./imgs/loveyou.jpeg",
-        "爱你！！！": "./imgs/loveyou.jpeg",
         //"今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
